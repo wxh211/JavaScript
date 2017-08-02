@@ -39,3 +39,8 @@ for (i=0;i<=10;i++)
     if (i==3) continue;
     x=x + "The number is " + i + "<br>";
 }
+4.typeof, null 和 undefined
+typeof来检测变量的数据类型
+null来表示一个空对象引用，或者可以用来清空对象
+undefined可以用来清空对象
+4.
